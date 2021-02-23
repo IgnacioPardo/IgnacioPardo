@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+		<meta name="twitter:card" content="summary" />
+		<meta property="og:url" content="https://chonapardo.com/" />
+		<meta property="og:title" content="Chona Pardo" />
+		<meta property="og:description" content="Chona Pardo" />
+		<meta property="og:image" content="thumbnail.jpg" />
+		<meta name="Description" content="Chona Pardo">
+		<meta name="theme-color" content="#0C043F"/>	
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1">-->
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover,  shrink-to-fit=no" />
+		<!--<meta name="viewport" content="width=device-width, maximum-scale=1, user-scalable=no" />-->
+		<meta name="HandheldFriendly" content="true"> 
+		<link rel="manifest" href="manifest.json">
+		<meta http-equiv="Cache-control" content="no-cache">
+		<meta http-equiv="Expires" content="-1">
+		<!-- for ios 7 style, multi-resolution icon of 152x152 -->
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-barstyle" content="black-translucent">
+		<link rel="apple-touch-icon" href="static/icon-152.png">
+		<!-- for Chrome on Android, multi-resolution icon of 196x196 -->
+		<meta name="mobile-web-app-capable" content="yes">
+		<link rel="shortcut icon" sizes="196x196" href="static/icon-196.png">
+		<meta name="apple-mobile-web-app-title" content="Chona">
+		<meta name="application-name" content="Chona Pardo">
+
+    <meta charset="utf-8">
+    <title>Chona Pardo</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">	
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="static/style.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body style="background-color: #FECA58;">
+		<a class="skip-link" href="#maincontent"></a>
+		<div class="header" style="background-color: #FECA58; height: 100% !important;">
+			<div class="" style="display: flex;justify-content: center;align-items: center;background-color: #FECA58; height: 100% !important;" id="header">
+				<img class="center_logo chona_logo" alt="Chona Pardo" src="static/images/chona.svg">
+				<img class="center_logo parrot" alt="Chona Pardo" src="static/images/parrot.svg">
+			</div>
+		</div>
+		<div id="maincontent" class="projects">
+			<div class="stripe parallax img_roadtrip" id="roadtrip">
+				<img class="center_logo roadtrip_logo" alt="RoadTrip" src="static/images/roadtrip.svg"  onclick="window.open('https://docs.google.com/document/d/e/2PACX-1vQ7HAjEEJZ1iSuX6ny7ZiPNRuMvCkry5k3pR8OgNn3vCB_iUS2n9unUbUnCTcBvbtDRw59sr5SpINTj/pub')">
+			</div>
+			<div class="stripe parallax img_mapi" id="mapi">
+				<img class="center_logo mapi_logo" alt="mAPI Live" src="static/images/mAPI.svg" onclick="window.open('https://mapi.live')">
+			</div>
+			<div class="stripe" style="background-color: #FECA58;" id="lemon">
+				<img class="center_logo lemon_logo" alt="The Lemon Drop" src="static/images/lemon.svg" onclick="window.open('https://www.youtube.com/channel/UCBV0sh0yA9JFWmiGrX0RIDg')">
+			</div>
+			<div class="stripe parallax img_firegarden" id="firegarden">
+				<img class="center_logo firegarden_logo" alt="Fire Garden" src="static/images/firegarden.svg" onclick="window.open('https://www.youtube.com/channel/UCLghkYR9CIfYpURP8NkHhow')">
+			</div>
+			<div class="stripe parallax img_perry" id="perry" onclick="window.open('https://perry.ticlab.repl.co')">
+			</div>
+			<div class="stripe" style="background-color: #0C073E;" id="ttxp">
+				<img class="center_logo ttxp_logo" alt="The TIC Experience Podcast" src="static/images/ttxp.svg" onclick="window.open('https://anchor.fm/the-tic-experience-podcast')">
+			</div>
+			<div class="stripe parallax img_laq" id="laq">
+				<img class="center_logo laq_logo" alt="La Quemisterie" src="static/images/laq.svg" onclick="window.open('https://laquemisterie.com')">
+			</div>
+			<div class="stripe parallax img_vale" id="vale">
+				<img class="center_logo vale_logo" alt="Valeria Fioroni" src="static/images/vale.svg" onclick="window.open('https://valeriafioroni.com')">
+			</div>
+			<div class="stripe parallax img_background" id="guitar">
+				<img class="center_logo chona_logo" alt="Chona Pardo" src="static/images/chona.svg">
+			</div>
+		</div>
+		<div class="footer">
+			<br>
+			<noscript>
+			</noscript>
+			<div class="flex-center">
+				<center><div> </div></center>
+				<i onclick="window.open('https://github.com/IgnacioPardo')" class="fa fa-github fa-4x icon-3d"></i>
+				<center><div class="icon_text"> </div></center>
+				<center><div> </div></center>
+				<i onclick="window.open('https://www.twitter.com/chona_pardo')" class="fa fa-twitter fa-4x icon-3d"></i>
+				<center><div class="icon_text"> </div></center>
+				<center><div> </div></center>
+				<i onclick="window.open('https://www.instagram.com/chona_pardo')" class="fa fa-instagram fa-4x icon-3d"></i>
+				<center><div class="icon_text"> </div></center>
+			</div>
+			<br>
+		</div>
+	<style>
+	</style>
+    <script src="static/script.js"></script>
+		<script>
+			if ('serviceWorker' in navigator){
+				navigator.serviceWorker.register('/service-worker.js');
+			}
+		</script>
+  </body>
+</html>
