@@ -154,6 +154,11 @@ a:visited {
 	max-width: 8% !important;
 }
 
+.header{
+	background-color: #FECA58;
+	height: 100%;
+}
+
 @media only screen and (max-width: 600px) {
 	.parrot{
 		display: none;
@@ -163,5 +168,8 @@ a:visited {
 	}
 	.parallax{
 		background-attachment: scroll;
+	}
+	.header{
+		height: calc(100% + 43px) !important;
 	}
 }
