@@ -24,6 +24,9 @@ body {
 .img_perry:hover{
 	cursor: pointer;
 }
+.img_watchparty:hover{
+	cursor: pointer;
+}
 .fa:hover{
 	cursor: pointer;
 }
@@ -77,12 +80,14 @@ body {
 		background-image: url("https://static.wixstatic.com/media/a41276_85c4403d06fe425d9734444770be3622~mv2.jpg/v1/fill/w_1280,h_583,al_c,q_85,usm_0.66_1.00_0.01/a41276_85c4403d06fe425d9734444770be3622~mv2.webp");
 }
 .img_perry{
-		background-image: url("https://static.wixstatic.com/media/a41276_6ee7c70901c24ae4acbf4b4714770414~mv2.jpg/v1/fill/w_1280,h_583,al_c,q_85,usm_0.66_1.00_0.01/a41276_6ee7c70901c24ae4acbf4b4714770414~mv2.webp");
+		background-image: url("https://chonapardo.com/static/images/Perry.png");
 }
 .img_laq{
 		background-image: url("https://static.wixstatic.com/media/a41276_b5d358118b8f4408ae93b2a057a3a9c3~mv2.jpg/v1/fill/w_1280,h_583,al_c,q_85,usm_0.66_1.00_0.01/a41276_b5d358118b8f4408ae93b2a057a3a9c3~mv2.webp");
 }
-
+.img_watchparty{
+		background-image: url("https://chonapardo.com/static/images/WatchParty.png");
+}
 a:link {
 	text-decoration: none;
 }
