@@ -53,6 +53,13 @@ def manifest():
         'manifest.json',
         mimetype='application/json')
 
+@app.route('/icon-192.png')
+def icon192():
+    return send_from_directory(
+        os.path.join(app.root_path, 'static'),
+        'icon-192.png',
+        mimetype='image/png')
+
 @app.route('/')
 def main():
 	return loadPage("static/index.html")
