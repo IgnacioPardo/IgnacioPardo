@@ -25,6 +25,7 @@ app = Flask(__name__)
 Mobility(app)
 Talisman(app, content_security_policy=None)
 
+@app.route('/gpt3/favicon.ico')
 @app.route('/favicon.ico')
 def favicon():
     return send_from_directory(
@@ -63,6 +64,10 @@ def icon192():
 @app.route('/')
 def main():
 	return loadPage("static/index.html")
+
+@app.route('/gpt3')
+def gpt3():
+	return loadPage("static/gpt3.html")
 
 if __name__ == '__main__':
   keep_alive()
