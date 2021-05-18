@@ -12,7 +12,6 @@ if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine
 	}
 }
 
-
 userHasScrolled = false;
 window.onscroll = function (e)
 {
@@ -23,9 +22,9 @@ setTimeout(
 		if(!userHasScrolled)
 		{
 			if (isMobile){
-				document.getElementsByClassName("chona_logo")[0].scrollIntoView({ 
+				/*document.getElementsByClassName("chona_logo")[0].scrollIntoView({ 
 					behavior: 'smooth' 
-				});
+				});*/
 			}
 			else{
 				document.getElementById('maincontent').scrollIntoView({ 

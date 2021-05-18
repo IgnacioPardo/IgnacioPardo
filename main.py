@@ -1,7 +1,8 @@
-from flask import Flask, send_from_directory, request
+from flask import Flask, send_from_directory, request, redirect, url_for
 from flask_mobility import Mobility
 from flask_talisman import Talisman
 import codecs, os
+from datetime import datetime
 
 #Threading
 from threading import Thread
@@ -10,7 +11,8 @@ from threading import Thread
 from gevent.pywsgi import WSGIServer
 
 def loadPage(src):
-    return codecs.open(src, "r", "utf-8").read()
+	date = datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
+	return codecs.open(src, "r", "utf-8").read()
 
 def run():
 	#WSGIServer
@@ -25,9 +27,9 @@ app = Flask(__name__)
 Mobility(app)
 Talisman(app, content_security_policy=None)
 
-@app.route('/gpt3/favicon.ico')
 @app.route('/favicon.ico')
-def favicon():
+@app.route('/<path:dummy>/favicon.ico')
+def favicon(dummy=None):
     return send_from_directory(
         os.path.join(app.root_path, 'static'),
         'favicon.ico',
@@ -68,6 +70,10 @@ def main():
 @app.route('/gpt3')
 def gpt3():
 	return loadPage("static/gpt3.html")
+
+@app.route('/<path:dummy>')
+def fallback(dummy=None):
+	return redirect(url_for('main'))
 
 if __name__ == '__main__':
   keep_alive()

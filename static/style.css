@@ -89,6 +89,13 @@ body {
 .img_watchparty{
 		background-image: url("https://chonapardo.com/static/images/WatchParty.png");
 }
+.img_playlists{
+		background-image: url("https://chonapardo.com/static/images/Playlists.png");
+		background-color: rgb(33, 33, 33);
+		height: 650px !important; 
+		max-height: 650px !important; 
+		cursor: pointer;
+}
 a:link {
 	text-decoration: none;
 }

@@ -16,19 +16,10 @@ workbox.core.setCacheNameDetails({
     runtime: 'runtime',
   });
   
-// runtime cache
-
-workbox.routing.registerRoute(
-    new RegExp('/static/.*'),
-    new workbox.strategies.CacheFirst({
-			cacheName: 'chona-cache-Static'
-		})
-);
-
 // 1. stylesheet
 workbox.routing.registerRoute(
     new RegExp('\.css$'),
-    new workbox.strategies.CacheFirst({
+    new workbox.strategies.NetworkFirst({
         cacheName: 'chona-cache-Stylesheets'
     })
 );
@@ -39,10 +30,5 @@ workbox.routing.registerRoute(
         cacheName: 'chona-cache-Images'
     })
 );
-workbox.routing.registerRoute(
-    new RegExp('/.*'),
-    new workbox.strategies.CacheFirst()
-);
-
 
 workbox.precaching.precacheAndRoute([]);
