@@ -11,8 +11,8 @@ from threading import Thread
 from gevent.pywsgi import WSGIServer
 
 def loadPage(src):
-	date = datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
-	return codecs.open(src, "r", "utf-8").read()
+	t = datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
+	return codecs.open(src, "r", "utf-8").read().replace("REPLACE", t)
 
 def run():
 	#WSGIServer

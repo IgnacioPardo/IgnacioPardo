@@ -1,5 +1,5 @@
 # ChonaPardo
-- 👨🏻‍🏫 [TIC_ORT](https://github.com/TIC-ORT)
+- 👨🏻‍🏫 [TIC ORT](https://github.com/TIC-ORT)
 - 🐍 Python3
 - 🧑🏻‍💻 Apple Sheep
 - 🎙 [The TIC Experience Podcast](https://anchor.fm/the-tic-experience-podcast)
