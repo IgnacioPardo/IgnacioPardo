@@ -43,8 +43,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="70px">
+    <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" height="70px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="70px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="70px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="70px">
