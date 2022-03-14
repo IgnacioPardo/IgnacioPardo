@@ -55,10 +55,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="70px" alt="Heroku">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="70px" alt="GitHub">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="70px" alt="git">
-    
-    
-    
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioPardo&theme=highcontrast&layout=compact&langs_count=6)](https://github.com/IgnacioPardo?tab=repositories)
 
 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioPardo&theme=highcontrast&layout=compact&langs_count=6)](https://github.com/IgnacioPardo?tab=repositories)   
+  
 - [![IgnacioPardo GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioPardo&hide=prs,issues,contribs&theme=highcontrast&count_private=true&show_icons=true&icon_color=ffff00)](https://github.com/anuraghazra/github-readme-stats)
+
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IgnacioPardo&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=F4FF00&border=F4FF00&fire=F4FF00)](https://git.io/streak-stats)
+    
