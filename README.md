@@ -1,5 +1,4 @@
 # ChonaPardo
-0xDff54909BB5Aa64dc626e7F3Fddb5b641a61379E
 
 👋 Hola, mi nombre es Ignacio Pardo, soy programador Full Stack con especializacion en Python3 y desarrollo backend. Tengo experiencia en diseño grafico y desarrollo web y en el uso de aplicaciones como Figma Illustrator y Photoshop.
 
