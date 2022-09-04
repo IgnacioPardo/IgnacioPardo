@@ -26,6 +26,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="70px" alt="Adobe Illustrator">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" height="70px" alt="">
     <img src="https://www.sublimehq.com/images/sublime_text.png" height="75px" alt="Adobe Photoshop">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="70px" alt="Visual Studio Code">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="70px" alt="Visual Studio">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="70px" alt="C">
     <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" height="70px" alt="C++">
@@ -34,6 +35,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" height="70px" alt="JQuery">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="70px" alt="PHP">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" height="70px" alt=""MySQL>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="70px" alt=""mongodb>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" height="70px" alt="Linux">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="70px" alt="Ubuntu">
     <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" height="70px" alt="Objective-C">
@@ -49,12 +51,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="70px" alt="Tensorflow">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="70px" alt="Numpy">
     <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" height="70px" alt="Wolfram Mathematica">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="70px" alt="R">
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" height="70px" alt="Electron.js">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="70px" alt="Node.js">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="70px" alt="npm">
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="70px" alt="Heroku">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="70px" alt="GitHub">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="70px" alt="git">
+    
 
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioPardo&theme=highcontrast&layout=compact&langs_count=6)](https://github.com/IgnacioPardo?tab=repositories)   
