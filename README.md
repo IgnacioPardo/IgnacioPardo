@@ -31,11 +31,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="70px" alt="C">
     <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" height="70px" alt="C++">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" height="70px" alt="C#">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" height="70px" alt="Java">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="70px" alt="ReactJS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="70px" alt="NextJS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" height="70px" alt="Electron.js">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="70px" alt="Node.js">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="70px" alt="npm">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" height="70px" alt="JQuery">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="70px" alt="PHP">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" height="70px" alt=""MySQL>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="70px" alt=""mongodb>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" height="70px" alt="Java">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" height="70px" alt="Linux">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="70px" alt="Ubuntu">
     <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" height="70px" alt="Objective-C">
@@ -50,11 +55,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="70px" alt="Jupyter">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="70px" alt="Tensorflow">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="70px" alt="Numpy">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" height="70px" alt="Kaggle">
     <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" height="70px" alt="Wolfram Mathematica">
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="70px" alt="R">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" height="70px" alt="Electron.js">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="70px" alt="Node.js">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="70px" alt="npm">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" height="70px" alt="R Studio">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="70px" alt="LaTeX">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" height="70px" alt="Markdown">
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="70px" alt="Heroku">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="70px" alt="GitHub">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="70px" alt="git">
